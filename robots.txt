@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bgion.csgad.com/azd/sitemap.xml.gz
